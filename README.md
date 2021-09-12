@@ -62,7 +62,7 @@ After the First login it will Save your credintials in Cache for next login.
  **After login If it gives error like this then that email is not granted permission in my google drive developer console.**
 ![img](https://github.com/sanskarpawar/GoogleDriveAPI_UsingJavaScript/blob/master/Screenshots/Acounts.png?raw=true)
 
-**->** For free version of google drive services you can add users hear(only 100 allowd)
+**->** For free version of google cloud services you can grant permission hear(only 100 allowd)
 ![img](https://github.com/sanskarpawar/GoogleDriveAPI_UsingJavaScript/blob/master/Screenshots/OAthSnip.PNG?raw=true)
 ## License
 
