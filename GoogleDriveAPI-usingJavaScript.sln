@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDriveAPI-usingJavaScript", "GoogleDriveAPI-usingJavaScript\GoogleDriveAPI-usingJavaScript.csproj", "{01B1B7A8-0C12-4A56-B475-BC1D8697954D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B1B7A8-0C12-4A56-B475-BC1D8697954D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B1B7A8-0C12-4A56-B475-BC1D8697954D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B1B7A8-0C12-4A56-B475-BC1D8697954D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B1B7A8-0C12-4A56-B475-BC1D8697954D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E01A96-3C38-4444-8A19-4465C1C97ECE}
+	EndGlobalSection
+EndGlobal
